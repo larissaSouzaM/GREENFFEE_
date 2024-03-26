@@ -1,0 +1,35 @@
+h1{
+  color: rgb(69, 116, 35);
+}
+
+#div {
+  display: inline-block;
+}
+html{
+  background-color: #92b492;
+  border: 20px solid #f3f3f3;
+
+
+}
+#t{
+  width: 290px;
+  height: 290px;
+}
+#v{
+ border: 10px inset #406022;
+  padding: ;
+  margin: ;
+}
+#texto{
+ font-size: 30px;
+}
+#k{
+  width: 560px;
+  height: 540px;
+}
+#gus{
+  color: rgb(69, 116, 35);
+}
+#{
+  color
+}
